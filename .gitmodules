@@ -1,0 +1,3 @@
+[submodule "scala_football_analyzer"]
+	path = scala_football_analyzer
+	url = https://github.com/domino644/scala_football_analyzer.git
